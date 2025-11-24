@@ -7,6 +7,7 @@ homepage = "https://github.com/sainnhe/gruvbox-material"
 
 # What variants exist
 variants = ["dark"]
+files = ["dark.toml"]
 
 targets = [
     "waybar",
